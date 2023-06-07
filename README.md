@@ -30,5 +30,4 @@ yum install ./*.rpm
 
 11. ./suprem4gs
 
-10. 소스코드로 이동하여
---> source boron.in 으로 시뮬레이션
+10. 소스코드로 이동하여 --> source boron.in 으로 시뮬레이션
