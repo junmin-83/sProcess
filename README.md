@@ -7,8 +7,11 @@ cd RPM
 yum install ./*.rpm
 
 [참고]
+
 wget https://kojipkgs.fedoraproject.org//vol/fedora_koji_archive01/packages/compat-gcc-34/3.4.6/34.fc21/x86_64/compat-libf2c-34-3.4.6-34.fc21.x86_64.rpm
+
 wget https://kojipkgs.fedoraproject.org//vol/fedora_koji_archive01/packages/compat-gcc-34/3.4.6/34.fc21/x86_64/compat-gcc-34-3.4.6-34.fc21.x86_64.rpm
+
 wget https://kojipkgs.fedoraproject.org//vol/fedora_koji_archive01/packages/compat-gcc-34/3.4.6/34.fc21/x86_64/compat-gcc-34-debuginfo-3.4.6-34.fc21.x86_64.rpm
 
 5. sudo yum install gcc-gfortran
