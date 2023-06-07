@@ -12,19 +12,17 @@ wget https://kojipkgs.fedoraproject.org//vol/fedora_koji_archive01/packages/comp
 
 4. sudo yum install gcc-gfortran
 
-5. git clone https://github.com/rafael1193/suprem4gs.git
+5. cd suprem4gs
 
-6. cd suprem4gs
-
-7. vim Makefile
+6. vim Makefile
 --> 'gcc'를 'gcc34'로
 --> 'g77'을 'gfortran'으로
 
-8. make depend install
+7. make depend install
 
-9. mv bin suprem
+8. mv bin suprem
 
-10. ./suprem4gs
+9. ./suprem4gs
 
-11. 소스코드로 이동하여
+10. 소스코드로 이동하여
 --> source boron.in 으로 시뮬레이션
