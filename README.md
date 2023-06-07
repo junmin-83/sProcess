@@ -21,7 +21,9 @@ wget https://kojipkgs.fedoraproject.org//vol/fedora_koji_archive01/packages/comp
 
 8. mv bin suprem
 
-9. ./suprem4gs
+9. chmod +x ./suprem4gs
+
+11. ./suprem4gs
 
 10. 소스코드로 이동하여
 --> source boron.in 으로 시뮬레이션
