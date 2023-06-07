@@ -17,6 +17,7 @@ yum install ./*.rpm
 5. sudo yum install gcc-gfortran
 
 6. vim Makefile
+
 --> 'gcc'를 'gcc34'로
 --> 'g77'을 'gfortran'으로
 
