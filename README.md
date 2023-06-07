@@ -1,6 +1,6 @@
 1. sudo yum update
 2. sudo yum upgrade
-3. git clone https://
+3. git clone https://github.com/junmin-83/sProcess.git
 4. RPM으로 설치
 
 wget https://kojipkgs.fedoraproject.org//vol/fedora_koji_archive01/packages/compat-gcc-34/3.4.6/34.fc21/x86_64/compat-libf2c-34-3.4.6-34.fc21.x86_64.rpm
