@@ -7,7 +7,7 @@
 
     4-2. cd RPM
 
-    4-3. yum install ./*.rpm
+    4-3. sudo yum install ./*.rpm
 
     [참고]
 
