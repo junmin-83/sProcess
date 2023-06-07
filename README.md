@@ -18,8 +18,9 @@ yum install ./*.rpm
 
 6. vim Makefile
 
---> 'gcc'를 'gcc34'로
---> 'g77'을 'gfortran'으로
+    --> 'gcc'를 'gcc34'로
+
+    --> 'g77'을 'gfortran'으로
 
 7. make depend install
 
