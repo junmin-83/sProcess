@@ -2,9 +2,9 @@
 2. sudo yum upgrade
 3. git clone https://github.com/junmin-83/sProcess.git
 4. RPM 설치 
-cd sProcess
-cd RPM
-yum install ./*.rpm
+4-1. cd sProcess
+4-2. cd RPM
+4-3. yum install ./*.rpm
 
     [참고]
 
